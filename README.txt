@@ -1,8 +1,3 @@
-Aranya Meas
-860971949
-ameas001@ucr.edu
-
-
 To run:
 $make
 $assn2
